@@ -1,6 +1,6 @@
 # Day40of50-Beats-Bluetooth-Landing-Page-Template
 
-Embark on an exhilarating journey of web development with the "50 Days, 50 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
+Embark on an exhilarating journey of web development with the "50 Days, 50 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 50 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
 
 Live Demo - https://codelikeamachine.github.io/Day40of50-Beats-Bluetooth-Landing-Page-Template/
 
